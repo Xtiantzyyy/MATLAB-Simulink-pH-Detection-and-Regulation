@@ -65,6 +65,6 @@ This Simulink model represents a pH detection and regulation system. It measures
 
 In summary, the model integrates sensor data acquisition, signal processing, range determination, control logic, and actuator control to maintain the desired pH level in a solution. Each block plays a crucial role in ensuring the system functions accurately and efficiently.
 
-Screenshot of the pH Detection and Regulation Simulink Model:
+𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭 𝐨𝐟 𝐭𝐡𝐞 𝐩𝐇 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐑𝐞𝐠𝐮𝐥𝐚𝐭𝐢𝐨𝐧 𝐒𝐢𝐦𝐮𝐥𝐢𝐧𝐤 𝐌𝐨𝐝𝐞𝐥:
 ![image](https://github.com/Xtiantzyyy/MATLAB-Simulink-pH-Detection-and-Regulation/assets/87014015/c78fef2e-d6e5-4a4f-902d-c97f1ef98b7e)
 
