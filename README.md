@@ -1,4 +1,5 @@
 𝐌𝐀𝐓𝐋𝐀𝐁 𝐒𝐢𝐦𝐮𝐥𝐢𝐧𝐤 - 𝐩𝐇 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐑𝐞𝐠𝐮𝐥𝐚𝐭𝐢𝐨𝐧
+
 This Simulink model represents a pH detection and regulation system. It measures the pH level using a pH sensor, processes the signal to determine the pH range, and controls a water pump to adjust the pH level accordingly. The system uses various blocks to handle signal processing, decision-making, and control tasks.
 
 𝐄𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐊𝐞𝐲 𝐁𝐥𝐨𝐜𝐤 𝐃𝐢𝐚𝐠𝐫𝐚𝐦𝐬 
